@@ -12,7 +12,7 @@ Built using **LangChain**, **Gemini/Mistral**, **Tavily Search**, **BeautifulSou
 
 🚀 **Try ResearchMind AI Live**
 
-👉 **Live Application:** [[Add Your Live Link Here]](https://researchmindaii.streamlit.app/)
+👉 **Live Application:** [[Click here]](https://researchmindaii.streamlit.app/)
 
 Experience the complete Multi-Agent Research workflow directly from your browser without any installation or setup.
 
